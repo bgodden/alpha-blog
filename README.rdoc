@@ -1,1 +1,3 @@
-This is the repo of the champion alpha-blog, my first rails application
+This is the repo of the champion alpha-blog, my first rails application.
+
+• Here is where I can make some bullet points about the application.
